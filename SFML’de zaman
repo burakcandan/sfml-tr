@@ -1,0 +1,4 @@
+Zamanın milisaniye sayılarından oluştuğu uint32 tipi veya saniyenin float sayılarından vücuda geldiği başka farklı kütüphanelere kıyasla SFML özel bir zaman yapısı dayatmaz. Bunun yerine kullanıcının tercihine kalmış esnek bir sınıf mevcuttur: sf::Time. Bütün SFML sınıfları ve fonksiyonları zaman değerlerini bu sınıfı kullanarak manipüle eder.
+Sf::Time sınıfı bir zaman periyodunu temsil eder. Sf::Time sıradan bir tarih-zaman sınıfı değildir (yıl/ay/gün/saat/dakika/saniye). Sadece zamanın belirli bir değerini temsil eder. İçeriğin kullanımına bağlı olarak zamanın nasıl yorumlanacağını belirler.
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
