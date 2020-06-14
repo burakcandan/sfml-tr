@@ -1,0 +1,5 @@
+Bu bölüm sadece pençere açma ve yönetme hakkındadır. Şekil verme konusu için sfml-graphics modülüne bakmanız gerekmektedir.
+Pencere açma
+Pencere kavramı SFML içersinde sf::Window sınıfı ile tanımlanmıştır. Bu sınıf kullanılarak doğrudan yapı üzerinde pencere oluşturulabilir. 
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
