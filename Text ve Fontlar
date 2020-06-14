@@ -1,0 +1,4 @@
+Herhangi bir text karekteri oluşturmadan önce erişilebilir bir fontunuzun olması gerekir. Fontlar, sf::font sınıfı tarafından kapsüllenirler. Font sınıfı, font yükleme ve fontların şekillerini elde etme, özelliklerini okuma gibi konularda işlev görür. Tipik programların çoğu ilk özellik olan font yükleme işlevini barındırırlar. Biz de bu ilk özellikten başlayalım konuya.
+Font yüklemede en yaygın yöntem diskte yer alan dosyanın loadFromFile fonksiyonuyla yüklenmesi diyebiliriz.
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
