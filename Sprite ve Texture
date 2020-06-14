@@ -1,0 +1,5 @@
+Pek çoğunuz (muhtemelen hepiniz değil) bu iki bilindik objeye aşinasınızdır. Bu bölümde oldukça kısa bir özet geçeceğiz. 
+Texture esasında bir imajdır. Fakat imaj olarak adlandırmak yerine özel olarak “texture” denilir için spesifik bir rolü vardır. Texture varlıları 2D varlıkları haritalamada kullanılır.
+Sprite ise texture çerçevesindeb daha fazlası değildir. 
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
