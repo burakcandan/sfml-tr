@@ -1,0 +1,3 @@
+SFML, basit şekil varlıklarını temsil eden sınıfları desteklemektedir. Her tipte şekil farklı bir sınıfla oluşturulur. Ancak tüm bu şekil sınıfları temelde bir sınıfın türevleridir. Her sınıf kendi özelliğini ekler; radius özelliği veya halka sınıfı, dikdörtgen sınıfı, poligon sınıfı vb.
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
