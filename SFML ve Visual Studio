@@ -1,0 +1,13 @@
+Giriş
+
+SFML kütüphanesini Visual Studio IDE (Visual C++ Derleyicisi) ile kullanıyorsanız veya SFML çalışmalarınızı Visual Studio IDE (Visual C++ Derleyicisi) ile kullanmayı düşünüyorsanız bu makale sizlere SFML projelerini nasıl konfigüre edeceğiniz hakkında yardımcı olacaktır.
+
+SFML Kütüphanesini Yüklemek
+
+Öncelikle mutlaka SFML SDK’sını indirme sayfasından indirmeniz gerekiyor.
+
+Mutlaka Visual C++ sürümünüzle uyumlu versiyonu indirmelisiniz. Kütüphane ancak VC++ 10 versiyonuyla derlenebilmektedir (Visual Studio 2010). Örnek vermek gerekirse VC++ 12 (Visual Studio 2013) ile kütüphane başarılı bir şekilde derlenememektedir. Eğer sizin VC++ sürümünüzle uyumlu bir SFML kütüphaneniz mevcut değilse kendi SFML paketinizi kendiniz yapmak durumundasınız.
+
+SFML arşiv dosyalarını istediğiniz yere çıkarabilirsiniz. Header kısımlarını ve kütüphaneleri Visual Studio programına kopyalamanız tavsiye edilmez. Kütüphaneleri kendileri için ayrılmış yerlerde barındırmak her zaman için daha iyi olacaktır. Özellikle de aynı kütüphanenin veya aynı derleyicinin farklı sürümlerini kullanmak niyetindeyseniz kütüphaneleri ayrılmış yerlerde tutmanız sizin lehinize olacaktır.
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
