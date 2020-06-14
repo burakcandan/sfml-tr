@@ -1,0 +1,8 @@
+Dökümanın Klavye ve Mouse kısmında global girdi cihazlarına nasıl erişileceği açıklanacaktır. Bu konu eventlerle karıştırılmamalıdır. Bu bölüm anlık durumlarla alakalıdır. Eventler ise hareket başladıktan sonra devreye girer.
+
+Klavye
+
+Bu sınıf klavye durumuna erişimi sağlar, durumu şu şekildedir; sf::Keyboard. Sadece bir fonksiyon içerir, isKeyPressed tuşun güncel durumunu kontrol eder. Statik bi fonksiyondur. Dolayısıyla sf::Keyboard kullanimi sırasında örneklendirme yapmanıza ihtiyaç yoktur. 
+Fonksiyon doğrudan klavye durumunu okur. Pencere durumunu görmezden gelir. Bunun manası da isKeyPressed pencere kapalı bile olsa doğru çıktısı verebilir. 
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
