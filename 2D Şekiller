@@ -1,0 +1,4 @@
+Önceki bölümlerde gördüğümüz üzere SFML pencere modülü bir OpenGL penceresi açmayı ve pencereyi eventlerle yönetmeyi sağlamada oldukça etkili bir yol. Ancak bu durum bir şeyler çizmeye geldiğinde bu şekilde işlemiyor maalesef. Bunun için OpenGL Api kullanmanız gerekiyor. 
+Neyse ki SFML grafik modülü 2 boyutlu şekiller çizmenize olanak sağlıyor. Hem de OpenGL’den çok daha kolay yollarlara.
+
+Çalışmanın tamamı: https://drive.google.com/file/d/13Gr2NeiKz3Dxz_J5eA6j0PGkzaIEvbJh/view?usp=sharing
